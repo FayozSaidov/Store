@@ -174,4 +174,10 @@
   transform: rotate(180deg);
   color: red;
   transition: 0.5s ease;
+}
+
+.burger {
+  border-color: transparent;
+  cursor: pointer;
+  display: none;
 }/*# sourceMappingURL=style.css.map */

@@ -32,7 +32,8 @@ const headerIns = `
                 </li>
                 <li>
                     <img src="./img/Vector1.png" alt="">
-                    <img src="./img/Vector2.png" alt="">
+                    <img src="./img/Vector2.png"  alt="">
+                    <img class="burger" src="./img/burger.png" alt="">      
                 </li>
             </ul>
 `
